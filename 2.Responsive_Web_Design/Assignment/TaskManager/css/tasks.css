@@ -1,0 +1,30 @@
+.task{
+    padding:25px;
+}
+
+a.deco-none {
+    color: inherit;
+    text-decoration:none;
+}
+
+
+span.outdated{
+	color: red;
+}
+
+.padding20{
+	padding: 20px;
+}
+
+img.avatar {
+	width:100%;
+	max-width: 500px;
+}
+.row-footer{
+    background-color: #AfAfAf;
+    margin:0px auto;
+    padding: 10px 0px 10px 0px;
+}
+.copy-right{
+    background-color: black;
+}
