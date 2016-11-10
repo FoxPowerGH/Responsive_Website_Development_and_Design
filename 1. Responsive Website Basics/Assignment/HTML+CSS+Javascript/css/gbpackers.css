@@ -1,0 +1,35 @@
+/* GLOBAL STYLES
+-------------------------------------------------- */
+/* Padding below the footer and lighter body text */
+
+body {
+  color: #5a5a5a;
+  background-color: #f6f6f6;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    color: black;
+}
+
+/* Box Content */
+.container-fluid {
+    padding: 10px 50px;
+}
+.bg-grey {
+    background-color: #f6f6f6;
+}
+
+.thumbnail {
+    padding: 0 0 15px 0;
+    border: none;
+    border-radius: 0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.thumbnail a img{
+      height: 250px
+}
